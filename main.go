@@ -10,7 +10,7 @@ import (
 )
 
 // home = 1, about = 2, services = 3, contact = 4, blog = 5
-
+// 101 103 104 105 106 107 108 304
 func main() {
 	fileLog1 := "log_day_1.txt"
 	fileLog2 := "log_day_2.txt"
